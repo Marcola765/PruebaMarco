@@ -1,6 +1,6 @@
 
 body{
-    background-color: #ff0000;
+    background-color: #1bb3b8;
     display: flex;
     justify-content: center;
 
@@ -75,4 +75,14 @@ h1{
 .carta > img{
     width: 80%;
     height: auto;
+}
+
+.noticia{
+    border-bottom: maroon;
+}
+
+
+.divtra{
+    display: flex;
+    justify-content: flex-end;
 }
